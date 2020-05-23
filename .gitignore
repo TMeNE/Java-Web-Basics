@@ -1,6 +1,6 @@
 # 仅在当前目录下忽略 make.bat 文件， 但不包括子目录下的 subdir/make.bat
 /make.bat
-
 /Makefile
-
+/package-lock.json
 build/
+node_modules/

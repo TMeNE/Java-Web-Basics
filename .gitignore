@@ -3,5 +3,4 @@
 
 /Makefile
 
-# 忽略 source/ 文件夹下的所有文件
-source/
+build/
